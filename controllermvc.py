@@ -29,11 +29,9 @@ class Controller:
 
     def play_game(self):
         """Another brilliant name. This is the main game loop, where everything else is called."""
-        running = True
-        while running:
+        while True:
             # Check to end the game
             if (self.Game.status == "X_Win") or (self.Game.status == "O_Win") or (self.Game.status == "Tie"):
-                running = False
                 break
 
             self.check_for_event() # Checks to see if the window X button was pressed or if the user clicked
