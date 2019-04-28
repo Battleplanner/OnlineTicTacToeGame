@@ -34,6 +34,7 @@ class Controller:
             # Check to end the game
             if (self.Game.status == "X_Win") or (self.Game.status == "O_Win") or (self.Game.status == "Tie"):
                 running = False
+                break
 
             self.check_for_event() # Checks to see if the window X button was pressed or if the user clicked
             self.Game.change_status() # Updates the status
