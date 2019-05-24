@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Online Tic Tac Toe Game.iml" filepath="$PROJECT_DIR$/.idea/Online Tic Tac Toe Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rock Paper Scissors (Tech with Tim)/.idea/Rock Paper Scissors (Tims Code).iml" filepath="$PROJECT_DIR$/../Rock Paper Scissors (Tech with Tim)/.idea/Rock Paper Scissors (Tims Code).iml" />
     </modules>
   </component>
 </project>

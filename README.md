@@ -7,3 +7,5 @@ Instructions on how to launch:
 
 As of yet, the three files used to run the game are controllermvc.py, modelmvc.py, and viewmvc.py.
 To start, just run the Controller.
+
+Note: Use 'pip install -r requirements.txt'
